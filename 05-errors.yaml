@@ -4,5 +4,8 @@ metadata:
   name : error-test
 spec : 
   containers:
-  - name : nginc
-    image : davfbaebeabeab
+  # - name : nginc
+  #   image : davfbaebeabeab
+  - name : almalinux
+    image : almalinux:9
+    
