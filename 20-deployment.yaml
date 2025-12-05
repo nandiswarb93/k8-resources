@@ -6,7 +6,7 @@ metadata:
     purpose: dp-demo
     project: roboshop
 spec:
-  replicas: 4
+  replicas: 3
   selector:
     matchLabels:
       purpose: dp-demo
